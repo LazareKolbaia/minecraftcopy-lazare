@@ -1,0 +1,226 @@
+.topheader{
+    background-color: #000000;
+    width:100%;
+    height: 30px;
+    display: flex;
+    margin-top: -8px;
+    margin-left: -15px;
+}
+
+body{
+   font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+ul{
+    list-style: none;
+}
+
+.list-itemtopheader{
+    color: #99de71;
+    display: flex;
+float: left;
+padding: 10px;
+font-weight: bolder;
+}
+
+.list2{
+    margin-top: -2px;
+  margin-left: 85%;
+}
+
+.list-itemtopheader{
+    font-size: 13.5px;
+}
+
+.bottomheader{
+    background-color: #171615;
+    width:101%;
+    height: 75px;
+    margin-left: -7px;
+
+}
+
+body{
+    background-color: #000000;
+}
+
+.list-item{
+    display: flex;
+    float: left;
+    color: white;
+    font-size: 13px;
+    font-weight: bolder;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+
+/**get minecraft same as list-item*/
+.list-itemGET{
+    display: flex;
+    float: left;
+    color: white;
+    font-size: 13px;
+    font-weight: bolder;
+    margin-top: 30px;
+    margin-left: 50px;
+}
+.list-item:hover{
+    color: #99de71;
+    cursor: pointer;
+}
+
+.list-itemtopheader:hover{
+    color: white;
+    cursor: pointer;
+}
+
+
+
+
+.logorn{
+    margin-left:  250px;
+    margin-top: 15px;
+}
+
+
+
+#getminecraft{
+    background-color: #3b8526;
+    width: 200px;
+    height: 40px;
+    margin-top: 13px;
+    text-align: center;
+    justify-content: center;
+    font-size: larger;
+    border-top: 5px #6bc349 solid;
+    border-bottom: 5px #2a631c solid;
+}
+
+.getmc{
+    margin-left: 1250px;
+    margin-top: -190px;
+    text-align: center;
+    justify-content: center;
+}
+
+
+
+.stoneIMG{
+    width: 100%;
+    height: 100%;
+}
+
+.stonebg{
+   background-color: #181818;
+   width: 100%;
+   height: 120%;
+}
+
+.content3{
+    background-color: #eeeeee;
+    width: 72%;
+    height: 40%;
+}
+
+.explore{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    color: #000000;
+    font-weight: bolder;
+    font-size: 30px;
+}
+
+#explore{
+    display: flex;
+    float: left;
+    width: 26%;
+    padding: 25px;
+}
+
+
+#exploredif{
+    display: flex;
+    float: left;
+    width: 26%;
+    padding: 25px;
+    margin-top: 25px;
+}
+
+#discover{
+background-color: #3b8526;
+border-radius: 0%;
+width: 250px;
+border-bottom: 5px #2a631c solid;
+border-left: none;
+border-right: none;
+border-top: 5px #6bc349 solid;
+font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+font-weight:900;
+font-size: 18px;
+margin-left: -200px;
+}
+
+#gettings{
+    margin-top: -10px;
+}
+
+
+#explore:hover{
+    cursor: pointer;
+    width: 28%;
+    transition: 0.5s;
+}
+
+#exploredif:hover{
+    cursor: pointer;
+}
+
+.divsEXPLORE{
+    margin-left: 150px;
+}
+
+.buttondiscover{
+    margin-left: 150px;
+}
+
+
+.exploress{
+    display: flex;
+    float: left;
+    margin-left: 23%;
+}
+
+#minecrafttitle{
+    font-weight: bolder; font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif; color: rgb(25, 109, 23)
+}
+
+.card-text{
+    font-weight: bolder;
+    
+}
+
+#cardexplore{
+    margin-top: 50px;
+    margin-left: 140px;
+    display: flex;
+    float: left;
+    padding: 15px;
+}
+
+#imgexplore{
+    margin-left: 40px; 
+    width: 70%; 
+    cursor: pointer;
+}
+
+#buttonDiscover{
+    background-color: #3b8526;
+    width: 200px;
+    height: 40px;
+    font-size: larger;
+    border-top: 5px #6bc349 solid;
+    border-bottom: 5px #2a631c solid;
+}
+
+#getting{
+    color: #eeeeee;
+}

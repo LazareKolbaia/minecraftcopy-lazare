@@ -1,0 +1,625 @@
+@media only screen and (max-width: 1502px) {
+    #getminecraft{
+        margin-left: -50px;
+    }
+  }
+
+  @media only screen and (max-width: 1397px) {
+    #getminecraft{
+        margin-left: -100px;
+    }
+
+    .logorn{
+        margin-left: 150px;
+    }
+  }
+
+  @media only screen and (max-width:1355px) {
+    #getminecraft{
+        margin-left: -150px;
+    }
+  }
+
+  @media only screen and (max-width: 1295px) {
+    #getminecraft{
+        margin-left: -200px;
+    }
+  }
+
+  @media only screen and (max-width: 1255px) {
+    #getminecraft{
+        margin-left: -250px;
+    }
+  }
+  
+  @media only screen and (max-width: 1207px) {
+    .logorn{
+        margin-left: 100px;
+    }
+  }
+
+  @media only screen and (max-width: 1201px) {
+    #getminecraft{
+        margin-left: -300px;
+    }
+  }
+
+  @media only screen and (max-width: 1149px) {
+    #getminecraft{
+        margin-left: -350px;
+    }
+  }
+  @media only screen and (max-width: 1131px) {
+    #getminecraft{
+        margin-left: -400px;
+    }
+  }
+
+  @media only screen and (max-width: 1059px) {
+    .logorn{
+        margin-left: 50px;
+    }
+  }
+
+
+  @media only screen and (max-width: 1059px) {
+    #getminecraft{
+        margin-left: -450px;
+    }
+  }
+
+  @media only screen and (max-width: 1001px) {
+    .list4{
+        width: 300px;
+    }
+    .list-item{
+        margin-top: 10px;
+    }
+
+    #getminecraft{
+        margin-top: -13px;
+    }
+     .logorn{
+        margin-left: 180px;
+     }
+  }
+
+
+
+  
+  @media only screen and (max-width: 997px) {
+    #getminecraft{
+        margin-left: -480px;
+    }
+  }
+
+
+
+  @media only screen and (max-width: 973px) {
+    #getminecraft{
+        margin-left: -500px;
+    }
+   .logorn{
+      margin-left: 150px;
+   }
+  }
+
+  @media only screen and (max-width: 948px) {
+    #getminecraft{
+        margin-left: -550px;
+    }
+
+    .logorn{
+        margin-left: 120px;
+    }
+  }
+
+
+  @media only screen and (max-width: 897px) {
+    #getminecraft{
+        margin-left: -600px;
+    }
+
+    .logorn{
+        margin-left: 90px;
+    }
+  }
+
+
+
+
+
+
+  @media only screen and (max-width: 886px) {
+    .list2{
+        margin-left: 80%;
+    }
+  }
+
+
+  @media only screen and (max-width: 848px) {
+    #getminecraft{
+      margin-left: -650px;
+    }
+
+    .logorn{
+        margin-left: 60px;
+    }
+  }
+
+  @media only screen and (max-width: 797px) {
+    .list4{
+        width: 250px;
+    }
+    .logorn{
+        width: 200px;
+        margin-top: 20px;
+    }
+
+    #getminecraft{
+        margin-left: -650px;
+        width: 170px;
+        height: 40px;
+    }
+  }
+
+
+
+
+  @media only screen and (max-width: 766px) {
+
+    #getminecraft{
+        margin-left: -700px;
+    }
+  }
+
+  @media only screen and (max-width: 716px) {
+
+    #getminecraft{
+        margin-left: -750px;
+    }
+  }
+
+  @media only screen and (max-width: 670px) {
+
+    .list2{
+        margin-left: 75%;
+    }
+  }
+
+  @media only screen and (max-width: 666px) {
+     .list-item{
+        font-size: 12px;
+     }
+    #getminecraft{
+      margin-left: -800px;
+      width: 150px;
+      font-size: 18px;
+    }
+
+    .logorn{
+        width: 180px;
+        margin-left: 30px;
+    }
+    .list4{
+        margin-left: -30px;
+    }
+  }
+
+  @media only screen and (max-width:596px) {
+
+   #getminecraft{
+     margin-left: -750px;
+     width: 80px;
+   }
+   .minecraftSPAN{
+    display: none;
+   }
+ }
+
+ @media only screen and (max-width:578px) {
+
+    #getminecraft{
+      margin-left: -800px;
+    }
+  }
+ 
+  @media only screen and (max-width:538px) {
+
+    .list2{
+      margin-left: 70%;
+    }
+  }
+ 
+
+  @media only screen and (max-width:532px) {
+
+    #getminecraft{
+      margin-left: -850px;
+    }
+
+    .logorn{
+        margin-left: 0px;
+    }
+  }
+ 
+  @media only screen and (max-width:476px) {
+
+    #getminecraft{
+      margin-left: -900px;
+    }
+     .logorn{
+        width: 160px;
+     }
+  }
+ 
+  
+   
+  
+  @media only screen and (max-width:448px) {
+      
+      .list2{
+          margin-left: 65%;
+    }
+  }
+  
+  @media only screen and (max-width:426px) {
+
+    #getminecraft{
+        margin-top: 2px;
+        width: 90px;
+        height: 35px;
+        margin-left: -920px;
+    }
+
+    .logorn{
+        margin-top: -70px ;
+        margin-left: 100px;
+    }
+     
+    .list4{
+        font-size: 14px;
+        width: 250px;
+    }
+
+    .list-item{
+        margin-top: 25px;
+    }
+
+    .bottomheader{
+        height: 90px;
+    }
+  }
+  @media only screen and (max-width:426px) {
+
+    #getminecraft{
+        margin-top: 2px;
+        width: 90px;
+        height: 35px;
+        margin-left: -920px;
+    }
+
+    .logorn{
+        margin-top: -70px ;
+        margin-left: 100px;
+    }
+     
+    .list4{
+        font-size: 14px;
+        width: 250px;
+    }
+
+    .list-item{
+        margin-top: 25px;
+    }
+
+    .bottomheader{
+        height: 90px;
+    }
+  }
+ 
+
+  @media only screen and (max-width:418px) {
+      .logorn{
+        margin-top: -160px;
+        margin-left: 260px;
+      }
+
+      #getminecraft{
+        margin-top: 5px;
+      }
+  }
+
+  @media only screen and (max-width:415px) {
+    .logorn{
+      margin-left: 230px;
+    }
+
+    #getminecraft{
+      margin-left: -950px ;
+    }
+}
+
+
+@media only screen and (max-width:385px) {
+  .logorn{
+    margin-left: 210px;
+    margin-top: -125px;
+  }
+
+  #getminecraft{
+    margin-left: -970px ;
+  }
+
+  .list2{
+    margin-left: 60%;
+  }
+
+  .list-item{
+    margin-top: 15px;
+  }
+}
+
+@media only screen and (max-width:371px) {
+  .logorn{
+     width: 130px;
+ }
+
+  #getminecraft{
+    margin-left: -1030px ;
+  }
+
+  .list2{
+    margin-left: 60%;
+  }
+}
+
+@media only screen and (max-width:335px) {
+  .logorn{
+     width: 120px;
+     margin-left: 190px;
+ }
+
+  #getminecraft{
+    margin-left: -1030px ;
+  }
+
+  .list2{
+    margin-left: 55%;
+  }
+}
+
+
+@media only screen and (max-width:1359px){
+
+  .exploress{
+    margin-left: 200px;
+  }  
+}
+
+@media only screen and (max-width:1317px){
+
+  .exploress{
+    margin-left: 180px;
+  }  
+}
+
+@media only screen and (max-width:1248px){
+
+  .exploress{
+    margin-left: 140px;
+  }  
+}
+
+@media only screen and (max-width:1222px){
+
+  .exploress{
+    margin-left: -180px;
+  }  
+}
+
+@media only screen and (max-width:1274px){
+
+  .exploress{
+    margin-left: 160px;
+  }  
+}
+
+
+@media only screen and (max-width:1172px){
+
+  .exploress{
+    margin-left: 140px;
+    
+  }  
+}
+
+
+
+@media only screen and (max-width:1130px){
+
+  .exploress{
+    margin-left: 120px;
+    
+  }  
+}
+
+@media only screen and (max-width:1082px){
+
+  .exploress{
+    margin-left: 100px;
+    
+  }  
+}
+
+@media only screen and (max-width:1024px){
+
+  .exploress{
+    margin-left: 80px;
+    
+  }  
+}
+
+
+@media only screen and (max-width:981px){
+
+  .exploress{
+    margin-left: 60px;
+    
+  }  
+}
+
+@media only screen and (max-width:927px){
+
+  .exploress{
+    margin-left: 40px;
+    
+  }  
+}
+
+
+@media only screen and (max-width:882px){
+
+  .exploress{
+    margin-left: 20px;
+    
+  }  
+}
+
+@media only screen and (max-width:830px){
+
+  .exploress{
+    margin-left: 0px;
+    
+  }  
+}
+
+@media only screen and (max-width:785px){
+
+  .exploress{
+    display: block;
+    margin-left: 130px;
+  }  
+}
+
+@media only screen and (max-width:706px){
+
+  .exploress{
+        margin-left: 110px;
+  }  
+}
+
+@media only screen and (max-width:680px){
+
+  .exploress{
+        margin-left: 90px;
+  }  
+}
+
+@media only screen and (max-width:622px){
+
+  .exploress{
+        margin-left: 70px;
+  }  
+}
+@media only screen and (max-width:580px){
+
+  .exploress{
+        margin-left: 50px;
+  }  
+}
+
+@media only screen and (max-width:515px){
+
+  .exploress{
+        margin-left: 30px;
+  }  
+}
+
+
+@media only screen and (max-width:472px){
+
+  .exploress{
+        margin-left: 10px;
+  }  
+}
+
+@media only screen and (max-width:412px){
+
+  .exploress{
+        margin-left: 0px;
+  }  
+}
+
+@media only screen and (max-width:380px){
+
+  .exploress{
+        margin-left: -10px;
+  }  
+}
+
+@media only screen and (max-width:358px){
+
+  .exploress{
+        margin-left: -15px;
+  }  
+
+  #desctript{
+    font-size: 13px;
+    width: 170px;
+  }
+
+  #minecrafttitle{
+    font-size: 18px;
+  }
+}
+
+
+@media only screen and (max-width:336px){
+ .exploress{
+  margin-left: -25px;
+ }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+ 
+
+ 
+
+
+ 
